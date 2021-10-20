@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spotify-scroll/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/spotify-scroll/static/js/main.6f468eda.chunk.js",
+    "main.js.map": "/spotify-scroll/static/js/main.6f468eda.chunk.js.map",
+    "runtime-main.js": "/spotify-scroll/static/js/runtime-main.938e100b.js",
+    "runtime-main.js.map": "/spotify-scroll/static/js/runtime-main.938e100b.js.map",
+    "static/js/2.9d5209d9.chunk.js": "/spotify-scroll/static/js/2.9d5209d9.chunk.js",
+    "static/js/2.9d5209d9.chunk.js.map": "/spotify-scroll/static/js/2.9d5209d9.chunk.js.map",
+    "static/js/3.acf0516d.chunk.js": "/spotify-scroll/static/js/3.acf0516d.chunk.js",
+    "static/js/3.acf0516d.chunk.js.map": "/spotify-scroll/static/js/3.acf0516d.chunk.js.map",
+    "index.html": "/spotify-scroll/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/spotify-scroll/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.9d5209d9.chunk.js.LICENSE.txt": "/spotify-scroll/static/js/2.9d5209d9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/spotify-scroll/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.938e100b.js",
+    "static/js/2.9d5209d9.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.6f468eda.chunk.js"
+  ]
+}
