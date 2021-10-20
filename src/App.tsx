@@ -6,7 +6,15 @@ const App = () => (
     <div className="App">
         <header className="App-header">
             <p>
-                spotify-scroll - <a className="App-link">Scroll spotify</a>
+                Scroll&nbsp;
+                <a
+                    className="App-link"
+                    href="https://www.spotify.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Spotify
+                </a>
             </p>
         </header>
         <RandomTrack/>
