@@ -1,21 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import RandomTrack from "./RandomTrack";
 
-function App() {
-  return (
+const App = () => (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <p>
-          spotify-scroll - Scroll spotify
-        </p>
-      </header>
+        <header className="App-header">
+            <p>
+                spotify-scroll - <a className="App-link">Scroll spotify</a>
+            </p>
+        </header>
+        <RandomTrack/>
     </div>
-  );
-}
+)
 
 export default App;
